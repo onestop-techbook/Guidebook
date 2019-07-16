@@ -1,0 +1,19 @@
+PREDEF:
+  # はじめに
+
+CHAPS:
+  - chap-title-output.re:
+
+
+      #- forkwell.re
+      #- sakuradocker.re
+      
+      - chap-ariaki.re
+      - Web.re
+      - nano-construction.re
+      - chap-oyakata-guidebook.re
+      
+APPENDIX:
+  # あれば
+
+POSTDEF:
